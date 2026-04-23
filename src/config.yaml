@@ -1,6 +1,6 @@
 site:
   name: 'Musterhaus Sonnenschein'
-  site: 'https://fewo-test-290949.pages.dev'
+  site: 'http://localhost:4326'
   base: '/'
   trailingSlash: false
 
